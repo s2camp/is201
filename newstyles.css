@@ -1,0 +1,46 @@
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+body {  
+    text-align: center;
+    background-color: #d8f5f7;
+}
+
+iframe {
+    width: 626px;
+    height: 352px;
+}
+
+
+ol {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(169, 2, 88);
+    text-align: left;
+    line-height: 1.4;
+}
+
+ul {
+    font-size: medium;
+    color: rgb(1, 53, 72);
+}
+
+.header {
+    top: 5px;
+    border-bottom: solid 2px #999999;
+}
+
+.leftbody {
+    left: 5px;
+    bottom: 25px;
+    width: 700px;
+}
+
+.rightbody {
+    right: 5px;
+    bottom: 25px;
+    width: 150 px;
+    padding-left: 200px;
+}
